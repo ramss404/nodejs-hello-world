@@ -1,7 +1,7 @@
 name: Rapl Test Deployment in QA site
 on:
   push:
-    branches: [ master ]
+    branches: [ main ]
 jobs:
 
   build:
